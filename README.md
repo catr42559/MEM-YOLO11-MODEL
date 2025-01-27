@@ -9,4 +9,4 @@ In this study, we propose a comprehensive framework that improves detection accu
 （3）A Multi-head Receptive Field Enhancement (MRFE) module is designed. This module addresses the spatial and channel redundancies commonly found in standard convolutions, significantly reducing the number of parameters and computational complexity without compromising performance. By enhancing the model's ability to capture diverse receptive fields, the MRFE module improves overall detection accuracy and efficiency.
 
 
-MEM-YOLO.yaml
+`MEM-YOLO.yaml` is the configuration file for model training. The `block.py` file contains the functions for the MFEE module, ELFR module, and MRFE module. The `dataset` file stores the download links for the dataset.

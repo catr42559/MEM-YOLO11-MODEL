@@ -1,0 +1,11 @@
+# dataset path
+# path: /root/code/project/ultralytics/
+train: \WiderPerson82\images\train # path + train
+val: \WiderPerson82\images\val # path + val
+test: \WiderPerson82\images\test # path + test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['pedestrians']

@@ -1,0 +1,9 @@
+# dataset path
+# path: /root/code/project/ultralytics/
+train: \dataset_visdrone\VisDrone2019-DET-train\images  # train images (relative to 'path')  6471 images
+val: \dataset_visdrone\VisDrone2019-DET-val\images  # val images (relative to 'path')  548 images
+test: \dataset_visdrone\VisDrone2019-DET-test-dev\images  # test images (optional)  1610 images
+
+nc: 10
+
+names: ['pedestrian','people','bicycle','car','van','truck','tricycle','awning-tricycle','bus','motor']

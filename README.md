@@ -10,3 +10,10 @@ In this study, we propose a comprehensive framework that improves detection accu
 
 
 `MEM-YOLO.yaml` is the configuration file for model training. The `block.py` file contains the functions for the MFEE module, ELFR module, and MRFE module. The `dataset` file stores the download links for the dataset.
+
+
+
+## Citation
+If you use this code or dataset in your research, please cite our paper:
+
+**MEM-YOLO11: Enhancing Small Object Detection in UAV Imagery through Multi-Feature Integration**, Shizhou Xu, Hong Yang, Mengjie Zhang, Yuhao Zhang, *The Visual Computer*, 2025.  

@@ -1,6 +1,5 @@
 title:MEM-YOLO11: Enhancing Small Object Detection in UAV Imagery through Multi-Feature Integration
 
-《The Visual Computer》
 
 Our work presents an enhanced YOLO-based model that addresses the challenges of detecting small objects in complex scenarios through novel modules such as the Multi-scale Feature Extraction and Edge Enhancement and the Multi-head Receptive Field Enhancement .
 In this study, we propose a comprehensive framework that improves detection accuracy and computational efficiency while reducing parameter redundancy. Our findings offer valuable insights for the field of computer vision, particularly in applications requiring precise small object detection.
@@ -13,7 +12,4 @@ In this study, we propose a comprehensive framework that improves detection accu
 
 
 
-## Citation
-If you use this code or dataset in your research, please cite our paper:
-
-**MEM-YOLO11: Enhancing Small Object Detection in UAV Imagery through Multi-Feature Integration**, Shizhou Xu, Hong Yang, Mengjie Zhang, Yuhao Zhang, *The Visual Computer*, 2025.  
+ 
